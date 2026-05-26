@@ -11,3 +11,5 @@ Tools, templates, and libraries for building, testing, and automating Microsoft 
 | <img src="https://raw.githubusercontent.com/ALM4Dataverse/Fake4Dataverse/main/logo.png" alt="Fake4Dataverse logo" width="48"> | [Fake4Dataverse](https://github.com/ALM4Dataverse/Fake4Dataverse) | In-memory fake Dataverse organization service for unit testing Dataverse and Dynamics 365 applications. |
 | <img src="https://raw.githubusercontent.com/ALM4Dataverse/ALM4Dataverse-AzDOExtensions/main/images/extension-icon.png" alt="ALM4Dataverse Azure DevOps Extensions logo" width="48"> | [ALM4Dataverse-AzDOExtensions](https://github.com/ALM4Dataverse/ALM4Dataverse-AzDOExtensions) | Azure DevOps extension tasks for ALM4Dataverse with modern Power Platform authentication support. |
 | <img src="https://avatars.githubusercontent.com/u/274233328?s=96&v=4" alt="ALM4Dataverse organization avatar" width="48"> | [.github](https://github.com/ALM4Dataverse/.github) | Organization profile and shared community-health repository for the ALM4Dataverse org. |
+
+> Note: the `.github` repository currently has no dedicated logo asset, so its entry uses the ALM4Dataverse organization avatar.
